@@ -2,8 +2,6 @@ CSS 584 A Wi 20: Multimedia Database Systems
 
 Student Name: Ahmed Nada
 
-Student ID #: 1875772
-
 Assignment #2 submission report
 
 - How to run your program
